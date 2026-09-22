@@ -10,7 +10,7 @@
 
 ───────────────────────────────────────────────────────
 
-STUDENT @ TU DELFT  // MUNICH, GERMANY
+SWE STUDENT @ CODE  // BERLIN, GERMANY
 TURNING COFFEE INTO CODE ☕
 
 ───────────────────────────────────────────────────────
